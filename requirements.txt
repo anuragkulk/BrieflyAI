@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langgraph
+chromadb
+faiss-cpu
+tiktoken
+unstructured
+python-dotenv
+pydantic
+sentence-transformers
+streamlit
